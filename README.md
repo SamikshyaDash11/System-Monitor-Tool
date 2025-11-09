@@ -20,12 +20,12 @@ g++ -std=c++17 system_monitor.cpp -o monitor
 ./monitor
 
 
-Output Example :
+##Output Example :
 ==============================
-   SYSTEM MONITOR TOOL (v4)
+###SYSTEM MONITOR TOOL (v4)
 ==============================
-CPU Usage:    10.23 %
-Memory Usage: 34.56 %
+**CPU Usage:**    10.23 %
+**Memory Usage:** 34.56 %
 ==============================
 PID     Name            State   CPU%    Mem(KB)
 -----------------------------------------------
