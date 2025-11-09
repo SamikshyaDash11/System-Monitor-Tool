@@ -27,7 +27,7 @@ Create a System Monitor Tool in **C++** that displays real-time information abou
 g++ -std=c++17 system_monitor.cpp -o monitor
 ./monitor
 
----
+
 
 ==============================
 SYSTEM MONITOR TOOL (v4)
