@@ -23,6 +23,7 @@ Create a System Monitor Tool in **C++** that displays real-time information abou
 ---
 
 ## 🚀 How to Compile and Run
+
 ```bash
 g++ -std=c++17 system_monitor.cpp -o monitor
 ./monitor
@@ -42,8 +43,8 @@ PID     Name            State   CPU%    Mem(KB)
 301     bash            S       1.20    4896
 7926    monitor         R       0.80    3872
 ...
-
-Enter PID to kill (or 0 to skip):
+Enter PID to kill (or 0 to skip): 
 ✅ Process 7926 terminated successfully!
 Refreshing in 3 seconds...
+
 
