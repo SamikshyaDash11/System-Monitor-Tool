@@ -16,7 +16,7 @@ Technology Used :
 3.Libraries: <iostream>, <fstream>, <dirent.h>, <unistd.h>, <csignal>, <thread>, <algorithm>, <iomanip>.
 
 How to Compile and Run :
-g++ -std=c++17 system_monitor_v2.cpp -o monitor
+g++ -std=c++17 system_monitor.cpp -o monitor
 ./monitor
 
 
